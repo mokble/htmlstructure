@@ -1,2 +1,2 @@
 # htmlstructure
- learnhtml
+ laernhtml
